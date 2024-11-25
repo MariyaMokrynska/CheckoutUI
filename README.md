@@ -1,5 +1,5 @@
 
-# Checkout System Automation Testing Project
+# Checkout System UI Automation Testing Project
 
 This repository demonstrates the structure and framework of an automated testing project designed for a checkout system. The original project I worked on is proprietary and cannot be shared in its entirety. Therefore, this project serves as a template showcasing the structure, setup, and approach used for automating the testing of a checkout system.
 
