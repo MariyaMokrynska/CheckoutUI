@@ -1,0 +1,124 @@
+[
+  {
+    "available": "on",
+    "productName": "Automated Testing Fundamentals",
+    "productId": "prod_PMYWvWHeM3LeY9",
+    "teen": "no",
+    "type": "Program",
+    "programId": 56,
+    "programCode": "atf",
+    "programName": "Automated Testing Fundamentals",
+    "startDate": "Apr 10, 2025",
+    "refundDate": "May 10, 2025",
+    "externalUrl": "sampleacademy.com",
+    "terms": "https://docs.sampleacademy.com/terms-and-conditions",
+    "prices": [
+      {
+        "active": true,
+        "baseAmount": 500,
+        "type": "one-time",
+        "upfrontDiscount": true,
+        "upfrontDiscountAmount": 100,
+        "allowCoupons": true,
+        "couponDiscount": 50
+      },
+      {
+        "active": true,
+        "baseAmount": 500,
+        "type": "recurring",
+        "numberOfInstallments": 5,
+        "allowCoupons": true,
+        "couponDiscount": 50
+      }
+    ]
+  },
+
+  {
+    "available": "on",
+    "productName": "Frontend Web Development Program",
+    "productId": "prod_PapFaO5yScBged",
+    "teen": "no",
+    "type": "Program",
+    "programId": 11,
+    "programCode": "fwdp",
+    "programName": "Frontend Web Development Program",
+    "startDate": "May 30, 2024",
+    "refundDate": "Jun 10, 2024",
+    "externalUrl": "sampleacademy.com",
+    "terms": "https://docs.sampleacademy.com/terms-and-conditions",
+    "prices": [
+      {
+        "active": true,
+        "baseAmount": 400,
+        "type": "one-time"
+      },
+      {
+        "active": true,
+        "baseAmount": 400,
+        "type": "recurring",
+        "numberOfInstallments": 4
+      }
+    ]
+  },
+
+  {
+    "available": "on",
+    "productName": "Java Basics For Teens Program",
+    "productId": "prod_PapHKIwdh1poXM",
+    "teen": "teen",
+    "type": "Program",
+    "programId": 4,
+    "programCode": "jbtp",
+    "programName": "Java Basics For Teens Program",
+    "startDate": "Sep 11, 2024",
+    "refundDate": "Sep 18, 2024",
+    "externalUrl": "sampleacademy.com",
+    "terms": "https://docs.sampleacademy.com/terms-and-conditions",
+    "prices": [
+      {
+        "active": true,
+        "baseAmount": 149,
+        "type": "one-time",
+        "upfrontDiscount": true,
+        "upfrontDiscountAmount": 50
+      }
+    ]
+  },
+
+  {
+    "available": "on",
+    "productName": "Advanced QA Automation with Selenium",
+    "productId": "prod_PapJzI7O1qpqU8",
+    "teen": "no",
+    "type": "Program",
+    "programId": 5,
+    "programCode": "aqaas",
+    "programName": "Advanced QA Automation with Selenium",
+    "startDate": "Feb 7, 2024",
+    "refundDate": "Mar 7, 2024",
+    "externalUrl": "sampleacademy.com",
+    "terms": "https://docs.sampleacademy.com/terms-and-conditions",
+    "prices": [
+      {
+        "active": true,
+        "baseAmount": 1000,
+        "type": "one-time",
+        "upfrontDiscount": true,
+        "upfrontDiscountAmount": 100
+      },
+      {
+        "active": true,
+        "baseAmount": 1200,
+        "type": "recurring",
+        "numberOfInstallments": 6
+      },
+      {
+        "active": true,
+        "baseAmount": 1000,
+        "type": "recurring",
+        "numberOfInstallments": 2
+      }
+    ]
+  }
+
+]
